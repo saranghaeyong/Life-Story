@@ -1,0 +1,6 @@
+{
+  "name": "A Life in 10 Chapters",
+  "description": "An interactive, cinematic journey through 100 years of life across 10 reflective chapters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
